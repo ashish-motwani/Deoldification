@@ -68,8 +68,8 @@ Here are some before and after samples:
 
 | Old Image | Deoldified Output |
 |-----------|--------------------|
-| ![old1](results/old1.png) | ![new1](results/new1.png) |
-| ![old2](results/old2.png) | ![new2](results/new2.png) |
+| ![old1](old1.png) | ![new1](new1.png) |
+| ![old2](old2.png) | ![new2](new2.png) |
 
 ## 📈 Performance
 
